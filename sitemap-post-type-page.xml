@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jodoh.net/wp-content/plugins/slim-seo/src/Sitemaps/style.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>https://jodoh.net/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/forum-policy/</loc>
+		<lastmod>2023-06-14T02:39:36+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://jodoh.net/privacy-policy/</loc>
+		<lastmod>2023-06-14T02:40:43+00:00</lastmod>
+	</url>
+</urlset>
