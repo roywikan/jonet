@@ -2,25 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="https://jodoh.net/wp-content/plugins/slim-seo/src/Sitemaps/style.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<url>
-		<loc>https://jodoh.net/bagian/cari-pinjaman-dan-kredit/</loc>
-	</url>
-	<url>
 		<loc>https://jodoh.net/bagian/cewek-single-cari-cowok/</loc>
 	</url>
 	<url>
 		<loc>https://jodoh.net/bagian/cowok-single-cari-cewek/</loc>
-	</url>
-	<url>
-		<loc>https://jodoh.net/bagian/curhat-dan-konsultasi-hal-cari-kerja/</loc>
-	</url>
-	<url>
-		<loc>https://jodoh.net/bagian/curhat-dan-konsultasi-hal-cari-pacar/</loc>
-	</url>
-	<url>
-		<loc>https://jodoh.net/bagian/curhat-dan-konsultasi-hal-rumah-tangga/</loc>
-	</url>
-	<url>
-		<loc>https://jodoh.net/bagian/curhat-dan-konsultasi-tentang-pacarmu/</loc>
 	</url>
 	<url>
 		<loc>https://jodoh.net/bagian/duda-cari-cewek/</loc>
