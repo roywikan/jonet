@@ -2,6 +2,22 @@
 <?xml-stylesheet type="text/xsl" href="https://jodoh.net/wp-content/plugins/slim-seo/src/Sitemaps/style.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<url>
+		<loc>https://jodoh.net/jodoh-aries-analisa-jodoh-zodiak/</loc>
+		<lastmod>2023-06-16T01:45:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://jodoh.net/jodoh-leo-analisa-jodoh-zodiak/</loc>
+		<lastmod>2023-06-16T01:47:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://jodoh.net/jodoh-taurus-analisa-jodoh-zodiak/</loc>
+		<lastmod>2023-06-16T01:46:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://jodoh.net/amalan-dapat-jodoh-mudah-dan-cocok/</loc>
+		<lastmod>2023-06-15T13:41:17+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://jodoh.net/forum-janda-cari-cowok/</loc>
 		<lastmod>2023-06-14T02:47:47+00:00</lastmod>
 	</url>

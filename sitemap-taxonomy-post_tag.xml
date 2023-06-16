@@ -2,12 +2,81 @@
 <?xml-stylesheet type="text/xsl" href="https://jodoh.net/wp-content/plugins/slim-seo/src/Sitemaps/style.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<url>
+		<loc>https://jodoh.net/tentang/amalan/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/amalan-dapat-jodoh/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/aries/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/bidang-usaha-aries/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/bidang-usaha-leo/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/bidang-usaha-taurus/</loc>
+	</url>
+	<url>
 		<loc>https://jodoh.net/tentang/duda/</loc>
 	</url>
 	<url>
 		<loc>https://jodoh.net/tentang/janda/</loc>
 	</url>
 	<url>
+		<loc>https://jodoh.net/tentang/jodoh-aries/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/jodoh-leo/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/jodoh-taurus/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/jodoh-zodiak/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/kecocokan-jodoh/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/kecocokan-jodoh-aries/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/kecocokan-jodoh-leo/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/kecocokan-jodoh-taurus/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/leo/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/pekerjaan-aries/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/pekerjaan-leo/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/pekerjaan-taurus/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/ramalan-jodoh-aries/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/ramalan-jodoh-leo/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/ramalan-jodoh-taurus/</loc>
+	</url>
+	<url>
 		<loc>https://jodoh.net/tentang/single/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/taurus/</loc>
+	</url>
+	<url>
+		<loc>https://jodoh.net/tentang/zodiak/</loc>
 	</url>
 </urlset>
